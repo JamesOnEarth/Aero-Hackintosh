@@ -7,7 +7,7 @@ Hackintosh files for Gigabyte Aero 15 Classic. No bios flashing needed.
 ```
 - Processor: Intel Core i7-9750H
 - Memory: 16 GB Samsung DDR4 2666 MHz
-- Panel: FHD (1920x1080) LG 144Hz IPS LCD anti-glare display (SA/WA)
+- Panel: FHD (1920x1080) LG 144Hz IPS LCD anti-glare display
 - Graphics:
   - Integrated: Intel UHD Graphics 630
   - Dedicated: 2070 Max-Q GDDR6 8GB (XA)
