@@ -1,4 +1,68 @@
-# Aero-Hackintosh
-Hackintosh files for Aero-15
+# Hackintosh Aero 15 Classic
 
-No bios flashing needed.
+Hackintosh files for Gigabyte Aero 15 Classic. No bios flashing needed.
+
+## Specs
+
+```
+- Processor: Intel Core i7-9750H (all models)/i9-9980HK (YA only)
+- Memory: Up to 64 GB Samsung DDR4 2666 MHz
+- Panel:
+  - FHD (1920x1080):
+    - LG 144Hz IPS LCD anti-glare display (SA/WA)
+    - SHARP 240Hz IGZO LCD anti-glare display (XA/YA)
+  - UHD (3840x2160):
+    - AUO 60Hz Adobe RGB 100% IPS LCD anti-glare display (all models)
+- Graphics:
+  - Integrated: Intel UHD Graphics 630
+  - Dedicated:
+    - NVIDIA GeForce GTX 1660 Ti GDDR6 6GB (SA only)
+    - NVIDIA GeForce RTX:
+      - 2060 GDDR6 6GB (WA)
+      - 2070 Max-Q GDDR6 8GB (XA)
+      - 2080 Max-Q GDDR6 8GB (YA)
+
+I/O | Ports (all models):
+
+- 3x USB 3.1 Type-A (2x Gen1, 1x Gen2)
+- 1x DP 1.4 (USB 3.1 Type-C)
+- 1x Thunderbolt 3 (USB Type-C)
+- 1x HDMI 2.0 (hard-wired to NVIDIA GPU)
+- 1x 3.5mm Headphone/Mic Combo Jack
+- 1x UHS-II SD Card Reader
+- 1x DC-in (charging) Jack
+- 1x RJ45 (Ethernet, Killer E2500)
+
+Misc (all models):
+- Killer Wireless-AC 1550 (Intel 9560NGW)
+- 2x 2 Watt Speaker
+- HD Camera
+```
+
+## What's working
+
+**USB Devices**
+- [x] All USB ports (2.0 + 3.1)
+- [x] SD Card Reader (3.0)
+- [x] HD Camera (2.0)
+- [x] Keyboard (2.0)
+- [x] Bluetooth (Internal)
+
+**Network**
+- [x] Ethernet port
+- [x] Wi-Fi (Intel cards now work)
+- [x] Bluetooth
+
+**Power**
+- [ ] CPU power management
+- [ ] Battery indicator
+- [ ] Shutdown/Sleep/Restart
+- [x] Disable dGPU to save power
+
+**Graphics**
+- [x] Intel Graphics card
+
+**Misc**
+- [x] Sound (internal speakers + audio jack)
+- [x] Touchpad + Gestures
+- [ ] Thunderbolt hotplug
