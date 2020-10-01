@@ -35,7 +35,6 @@ Misc:
 - [x] SD Card Reader (3.0)
 - [x] HD Camera (2.0)
 - [x] Keyboard (2.0)
-- [x] Bluetooth (Internal)
 
 **Network**
 - [x] Ethernet port
