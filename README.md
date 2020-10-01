@@ -1,6 +1,6 @@
 # Hackintosh Aero 15 Classic
 
-Hackintosh files for Gigabyte Aero 15 Classic. No bios flashing needed. Triple boot setup (Windows, macOS, Manjaro) using rEFInd.
+Hackintosh files for Gigabyte Aero 15 Classic. No bios flashing needed.
 
 ## Specs
 
