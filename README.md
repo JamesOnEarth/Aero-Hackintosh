@@ -11,6 +11,9 @@ Hackintosh files for Gigabyte Aero 15 Classic. No bios flashing needed.
 - Graphics:
   - Integrated: Intel UHD Graphics 630
   - Dedicated: 2070 Max-Q GDDR6 8GB (XA)
+- Storage:
+  - Intel SSD 760p SSDPEKKW512G8, 512 GB
+  - Sabrent Rocket NVMe PCIe M.2 2280, 1 TB
 
 I/O | Ports:
 - 3x USB 3.1 Type-A (2x Gen1, 1x Gen2)
